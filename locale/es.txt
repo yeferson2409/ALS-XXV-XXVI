@@ -3,7 +3,7 @@
 ## Acción
 
 ### URL
-LinkBehaviour_44C267CC_4B0F_36E7_41CC_5E46E5F4644C.source = https://wa.me/+51993796995
+LinkBehaviour_44C267CC_4B0F_36E7_41CC_5E46E5F4644C.source = https://wa.me/+51984381769
 LinkBehaviour_44C3C860_4B03_19DE_417F_9F21A7157A94.source = https://www.losportales.com.pe/alameda-lima-sur/
 
 ## Hotspot
